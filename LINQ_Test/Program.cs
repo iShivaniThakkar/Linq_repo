@@ -8,10 +8,6 @@ public class Program
     {
         IList<string> CountryListA = new List<string>()
         {
-                "Belgium",
-                "Belize",
-                "Benin",
-                "Bhutan",
                 "Cabo Verde",
                 "Cambodia",
                 "Cameroon",
