@@ -8,38 +8,7 @@ public class Program
     {
         IList<string> CountryListA = new List<string>()
         {
-                "Afghanistan",
-                "Albania",
-                "Algeria",
-                "Andorra",
-                "Angola",
-                "Bahrain",
-                "Bangladesh",
-                "Barbados",
-                "Belarus",
-                "Belgium",
-                "Belize",
-                "Benin",
-                "Bhutan",
-                "Cabo Verde",
-                "Cambodia",
-                "Cameroon",
-                "Canada",
-                "Chad",
-                "Chile",
-                "China",
-                "Colombia",
-                "Comoros",
-                "Ghana",
-                "Greece",
-                "Grenada",
-                "Guatemala",
-                "Namibia",
-                "Nauru",
-                "Nepal",
-                "Netherlands",
-                "New Zealand",
-                "Nicaragua",
+               "combodaia "
         };
 
         IList<string> CountryListB = new List<string>()
