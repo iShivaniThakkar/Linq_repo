@@ -8,15 +8,6 @@ public class Program
     {
         IList<string> CountryListA = new List<string>()
         {
-                "Afghanistan",
-                "Albania",
-                "Algeria",
-                "Andorra",
-                "Angola",
-                "Bahrain",
-                "Bangladesh",
-                "Barbados",
-                "Belarus",
                 "Belgium",
                 "Belize",
                 "Benin",
