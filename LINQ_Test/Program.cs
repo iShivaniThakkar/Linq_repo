@@ -8,8 +8,7 @@ public class Program
     {
         IList<string> CountryListA = new List<string>()
         {
-            "Harsh",
-                "India",
+            "Hardh",
                 "Cabo Verde",
                 "Cambodia",
                 "Cameroon",
