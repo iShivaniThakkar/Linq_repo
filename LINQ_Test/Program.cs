@@ -8,7 +8,26 @@ public class Program
     {
         IList<string> CountryListA = new List<string>()
         {
-               "combodaia "
+                "India",
+                "Cabo Verde",
+                "Cambodia",
+                "Cameroon",
+                "Canada",
+                "Chad",
+                "Chile",
+                "China",
+                "Colombia",
+                "Comoros",
+                "Ghana",
+                "Greece",
+                "Grenada",
+                "Guatemala",
+                "Namibia",
+                "Nauru",
+                "Nepal",
+                "Netherlands",
+                "New Zealand",
+                "Nicaragua",
         };
 
         IList<string> CountryListB = new List<string>()
