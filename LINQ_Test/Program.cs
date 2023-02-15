@@ -10,8 +10,6 @@ public class Program
         {
 
             "Harsh","Pranit",
-
-              
                 "Cabo Verde",
                 "Cambodia",
                 "Cameroon",
